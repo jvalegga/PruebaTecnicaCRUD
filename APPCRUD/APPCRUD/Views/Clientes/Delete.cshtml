@@ -1,0 +1,65 @@
+﻿@model APPCRUD.Models.CLIENTE
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ELIMINAR</h2>
+
+<h3>Desea Eliminar el registro?</h3>
+<div>
+    <h4>CLIENTE</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            TIPO DOCUMENTO
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TIPO_DOCUMENTO)
+        </dd>
+
+        <dt>
+            No DOCUMENTO
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NUMERO_DOCUMENTO)
+        </dd>
+        <dt>
+            NOMBRE
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NOMBRE)
+        </dd>
+
+        <dt>
+            APELLIDO
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.APELLIDO)
+        </dd>
+
+        <dt>
+            FECHA NACIMIENTO
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FECHA_NACIEMIENTO)
+        </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    @Html.ActionLink("Volver", "Index") |
+    <input type="submit" value="Aceptar" class="btn btn-default" />
+</div>
+    }
+</div>

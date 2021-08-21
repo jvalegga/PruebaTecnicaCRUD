@@ -1,0 +1,179 @@
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\APPCRUD.dll.config
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\APPCRUD.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\APPCRUD.pdb
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csc.exe
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csc.exe.config
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csc.rsp
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csi.exe
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csi.exe.config
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\csi.rsp
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Console.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\vbc.exe
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\vbc.exe.config
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\vbc.rsp
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Antlr3.Runtime.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\EntityFramework.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Newtonsoft.Json.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Helpers.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Mvc.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Optimization.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Razor.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\WebGrease.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\EntityFramework.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Helpers.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Mvc.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Optimization.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.Razor.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Newtonsoft.Json.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\obj\Debug\APPCRUD.csproj.CoreCompileInputs.cache
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\obj\Debug\APPCRUD.csproj.CopyComplete
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\obj\Debug\APPCRUD.dll
+C:\Users\JVGG\source\repos\APPCRUD\APPCRUD\obj\Debug\APPCRUD.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\APPCRUD.dll.config
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\APPCRUD.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\APPCRUD.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csc.exe
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csc.exe.config
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csc.rsp
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csi.exe
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csi.exe.config
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\csi.rsp
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Console.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\vbc.exe
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\vbc.exe.config
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\vbc.rsp
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Antlr3.Runtime.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\EntityFramework.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Newtonsoft.Json.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Helpers.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Mvc.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Optimization.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Razor.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\WebGrease.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\EntityFramework.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Helpers.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Mvc.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Optimization.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.Razor.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Newtonsoft.Json.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\obj\Debug\APPCRUD.csproj.AssemblyReference.cache
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\obj\Debug\APPCRUD.csproj.CoreCompileInputs.cache
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\obj\Debug\APPCRUD.csproj.CopyComplete
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\obj\Debug\APPCRUD.dll
+C:\Users\JVGG\Desktop\Prueba Angular\PRUEBA TECNICA FALABELLA\ITEM No 2 - APP CRUD\APPCRUD\APPCRUD\obj\Debug\APPCRUD.pdb

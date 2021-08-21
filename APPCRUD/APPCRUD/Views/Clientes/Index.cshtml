@@ -1,0 +1,60 @@
+﻿@model IEnumerable<APPCRUD.Models.CLIENTE>
+
+@{
+    ViewBag.Title = "Crear Nuevo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CLIENTES</h2>
+
+<p>
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+           TIPO DOC.
+        </th>
+        <th>
+            DOCUMENTO
+        </th>
+        <th>
+            NOMBRE
+        </th>
+        <th>
+            APELLIDO
+        </th>
+        <th>
+            FECHA NACIMIENTO
+        </th>
+        <th>
+            OPCIONES
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.TIPO_DOCUMENTO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.NUMERO_DOCUMENTO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.NOMBRE)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.APELLIDO)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.FECHA_NACIEMIENTO)
+    </td>
+    <td>
+        @Html.ActionLink("Nuevo", "Create") |
+        @Html.ActionLink("Editar", "Edit", new { id = item.ID }) |
+        @Html.ActionLink("Eliminar", "Delete", new { id = item.ID })
+    </td>
+</tr>
+}
+
+</table>
